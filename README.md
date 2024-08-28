@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg" alt="👋" width="20"/>
+![@Haruna5718](https://img.shields.io/badge/%40Haruna5718-000000?style=flat&logo=x&logoColor=ffffff)
+![@Haruna5718](https://img.shields.io/badge/%40Haruna5718-5865fe?style=flat&logo=discord&logoColor=ffffff)
+![devharuna5718@gmail.com](https://img.shields.io/badge/devharuna5718%40gmail.com-EA4335?style=flat&logo=Gmail&logoColor=ffffff)
+
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2728.svg" alt="✨" width="16"/> Welcome to my GitHub profile! I'm Haruna!
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haruna5718&layout=compact&theme=github_dark) -->
 
 <!--
 **Haruna5718/Haruna5718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
