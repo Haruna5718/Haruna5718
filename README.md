@@ -1,5 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg" alt="👋" width="20"/>
-![@devharuna5718](https://img.shields.io/badge/%40Haruna5718-000000?style=flat&logo=x&logoColor=ffffff)
+![@devharuna5718](https://img.shields.io/badge/%40devharuna5718-000000?style=flat&logo=x&logoColor=ffffff)
 ![@Haruna5718](https://img.shields.io/badge/%40Haruna5718-5865fe?style=flat&logo=discord&logoColor=ffffff)
 ![devharuna5718@gmail.com](https://img.shields.io/badge/devharuna5718%40gmail.com-EA4335?style=flat&logo=Gmail&logoColor=ffffff)
 
