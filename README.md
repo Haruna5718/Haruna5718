@@ -3,7 +3,10 @@
 ![@haruna5718](https://img.shields.io/badge/%40Haruna5718-5865fe?style=flat&logo=discord&logoColor=ffffff)
 ![devharuna5718@gmail.com](https://img.shields.io/badge/devharuna5718%40gmail.com-EA4335?style=flat&logo=Gmail&logoColor=ffffff)
 
-### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2728.svg" alt="✨" width="16"/> Welcome to my GitHub profile! I'm Haruna!
+<!-- ### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2728.svg" alt="✨" width="16"/> Welcome to my GitHub profile! I'm Haruna! -->
+
+> **"The function of good software is to make the complex appear to be simple."**   
+> \- *Grady Booch*   
 
 <span><img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Haruna5718&show_icons=true&bg_color=00000000&theme=github_dark" /></span>
 <span><img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haruna5718&layout=donut&langs_count=5&bg_color=00000000&theme=github_dark" /></span>
